@@ -32,12 +32,12 @@ My work spans the full research lifecycle:
 I've co-authored more than 50 peer-reviewed publications and actively support capacity building by mentoring junior analysts and collaborating with global partners across the U.S., South Asia, Africa, and Central America.
 ____________________________________________________________________________________________________________________________________________________________
 ### Selected Project Experience 
-- [NHLBI nuMoM2b Heart Health Study 2](https://numom2b.org/) – Domestic network of observational and lab studies about the heart health of women, particularly those who experienced an adverse pregnancy outcome (2020 to date)
+- [NHLBI nuMoM2b Heart Health Study 2](https://numom2b.org/) – Domestic network of observational and lab studies about the heart health, particularly among those who experienced an adverse pregnancy outcome (2020 to date)
 - [NICHD Global Network for Women’s and Children’s Health Research](https://globalnetwork.azurewebsites.net/) – International network of randomized controlled trials (RCT), registry, lab and observational studies currently across 7 clinical sites and focussing on simple, impactful interventions promoting maternal and child health in low-resource areas (2004 to date)
 - [WHO and BMGF Possible Severe Bacterial Infection (PSBI) Trial](https://www.isrctn.com/ISRCTN44033252) – International RCT in 7 countries evaluating care for infants with PSBI (2020 to 2025)
 - [NICHD Stillbirth Collaborative Research Network](https://pmc.ncbi.nlm.nih.gov/articles/PMC3665402/) – Domestic case-control, vital record, and lab analysis study of the extent and causes of stillbirth in the US (2003 to 2017)
-- [NIMH HIV/Sexually Transmitted Disease Prevention Trial (C-POL)](https://pubmed.ncbi.nlm.nih.gov/17413262/) – International program evaluation study (2006 to 2009) 
-- [USAID Priorities for Local AIDS Control Efforts](https://www.measureevaluation.org/resources/publications/ms-05-13.html) - International HIV-prevention evaluation study in 5 countries (2002 to 2003) 
+- [NIMH HIV/Sexually Transmitted Disease Prevention Trial (C-POL)](https://pubmed.ncbi.nlm.nih.gov/17413262/) – International HIV-prevention evaluation study in 5 countries (2006 to 2009) 
+- [USAID Priorities for Local AIDS Control Efforts](https://www.measureevaluation.org/resources/publications/ms-05-13.html) - International HIV-prevention evaluation study (2002 to 2003) 
 - [USAID Evaluation of Tanzanian Information Systems](https://iris.who.int/handle/10665/269468) International program evaluation of data collection systems in Tanzania (2002 to 2003)
 ____________________________________________________________________________________________________________________________________________________________
 ### Publications
