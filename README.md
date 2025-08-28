@@ -1,5 +1,4 @@
-## Welcome to my page! My name is Vanessa Thorsten
-____________________________________________________________________________________________________________________________________________________________________________
+## Welcome to my page! I'm Vanessa Thorsten
 I’m a biostatistician and data scientist with over 20 years of experience applying statistical methods, data management, and programming to address complex challenges in public health, healthcare, and social science research. I hold master's degrees in Maternal and Child Health and Biostatistics from the University of North Carolina Chapel Hill (2003).<br>
 
 Currently, I’m expanding my skill set as a full-time master’s student in the Data Science program at the University of Colorado Boulder (expected graduation May 2026).<br>
@@ -9,10 +8,28 @@ Alongside my studies, I work part-time as a research biostatistician at RTI Inte
 Above all, I am mission-focused and purpose-driven. My passion lies in using data to advance knowledge, influence policy, and create lasting, positive change for communities and families.<br>
 ____________________________________________________________________________________________________________________________________________________________
 ### Coursework
-My academic coursework at CU Boulder includes data structures and algorithms, frequentist and Bayesian statistics, data mining, machine learning, and applied deep learning. In addition to being proficient in SAS, I’m building fluency in Python and R and continually learning modern data science tools and frameworks.
+My academic coursework at CU Boulder includes:
+- data structures and algorithms,
+- frequentist and Bayesian statistics,
+- data mining,
+- machine learning, and
+- applied deep learning.
+
+In addition to being proficient in SAS, I’m building fluency in Python and R and continually learning modern data science tools and frameworks.
 ____________________________________________________________________________________________________________________________________________________________
 ### Work Experience
-I’ve led statistical teams and contributed to more than a dozen large-scale maternal and child health studies, including randomized controlled trials, observational cohorts, and evaluation projects. My work spans the full research lifecycle from protocol development and study design to advanced modeling, data analysis, and publication. I've co-authored more than 50 peer-reviewed publications and actively support capacity building by mentoring junior analysts and collaborating with global partners across the U.S., South Asia, Africa, and Central America.
+I’ve led statistical teams and contributed to more than a dozen large-scale maternal and child health studies, including:
+- randomized controlled trials,
+- observational cohorts, and
+- evaluation projects.
+
+My work spans the full research lifecycle:
+- protocol development and study design
+- advanced modeling,
+- data analysis, and
+- publication.
+
+I've co-authored more than 50 peer-reviewed publications and actively support capacity building by mentoring junior analysts and collaborating with global partners across the U.S., South Asia, Africa, and Central America.
 ____________________________________________________________________________________________________________________________________________________________
 ### Selected Project Experience 
 - **[NHLBI nuMoM2b Heart Health Study 2](https://numom2b.org/)** – Domestic network of observational and lab studies about the heart health of women, particularly those who experienced an adverse pregnancy outcome (2020 to date)
